@@ -2,4 +2,4 @@
 
 The two parts are for implentation of some XAI methods of technical chapter of educational module.
 
-XAI microservice repository is also part of technical module chapter.
+XAI microservice repository (https://github.com/mobile-cloud-computing/xAI-Microservice) has been also used as part of technical module chapter.
